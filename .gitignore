@@ -1,0 +1,6 @@
+.venv/
+venv/
+kodlama/venv/
+__pycache__/
+*.pyc
+.env
